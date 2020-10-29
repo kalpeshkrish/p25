@@ -1,2 +1,2 @@
-# p25
-for chrome
+# C25 Crumpled balls Project
+
